@@ -14,7 +14,7 @@ import (
 // Configuration 项目配置
 type Configuration struct {
 	// gpt apikey
-	ApiKey string `json:"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"`
+	ApiKey string `json:"your key"`
 	// 自动通过好友
 	AutoPass bool `json:"auto_pass"`
 	// 会话超时时间
